@@ -16,4 +16,4 @@ do {
 
 } while ($takeNumber !== $randomNumber);
 
-echo "Верно! Загадано: {$takeNumber}!";
+echo "Верно! Было загадано: {$takeNumber}!";
